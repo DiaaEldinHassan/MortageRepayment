@@ -1,8 +1,8 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import "./left.css";
-import "./right.css";
+import "./Left/left.css";
+import "./Right/right.css";
 
 import App from './App.jsx'
 
