@@ -1,6 +1,6 @@
 import React from "react";
 import {Input} from 'antd';
-import "./left.css";
+
 import  calculateMonthlyRepayment,{calculateInterestOnlyRepayment} from "../Functions/CalcFunction";
 
 

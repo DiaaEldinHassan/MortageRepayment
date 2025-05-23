@@ -1,6 +1,5 @@
 import React from "react";
 import empty from "../assets/images/illustration-empty.svg"
-import "./right.css";
 function Results(props) {
     return props.monthly===""?<div className="results empty">
       <img src={empty} alt="empty" />
